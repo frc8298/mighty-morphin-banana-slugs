@@ -1,0 +1,13 @@
+/*This turns header red */
+.red{
+  color:#fff;background-color:#77212E; text-align:center; content:"";display:table;clear:both;padding:16px;
+}
+
+/*this space out the menu*/
+.w3-bar .w3-bar-item{padding:8px 16px;float:left;width:auto;border:none;display:block;outline:0}
+
+/*This will spread out the menu options, turn white, and return to normal not selected font*/
+.w3-btn,.w3-button{border:none;display:inline-block;padding:8px 16px;vertical-align:middle;overflow:hidden;text-decoration:none;color:inherit;background-color:inherit;text-align:center;cursor:pointer;white-space:nowrap}
+
+/*Highlites the button*/
+.w3-button:hover{color:#000!important;background-color:#ccc!important}
